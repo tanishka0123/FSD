@@ -14,7 +14,7 @@ const ImageApp = () => {
                  style={{
                     width:width,
                     height:height,
-                    transform: rotate(${rotation}deg)
+                    // transform: rotate(${rotation}deg)
                  }} 
                  />
         </div>
